@@ -52,6 +52,8 @@ p
 	margin:auto;
 	width:99%;
 	margin-bottom:11.25rem;
+ font-size: 11px; 
+ text-align: center;
  }
   .attribution a 
   {
@@ -63,3 +65,4 @@ p
 	text-align:center;
 	margin:auto; 
  }
+    
